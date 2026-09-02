@@ -1,0 +1,11 @@
+camera_code,name,department,district,city,latitude,longitude,camera_type,ownership,status,storage_type,retention_days,landmark_address
+POL-AHM-0101,C.G. Road Swastik Cross Roads,Home Department (Gujarat Police),Ahmedabad,Ahmedabad,23.0365,72.5612,PTZ,Government,Active,Local NVR,15,Near Municipal Market Navrangpura
+POL-AHM-0102,Nehrunagar Circle Junction,Home Department (Gujarat Police),Ahmedabad,Ahmedabad,23.0189,72.5410,ANPR,Government,Active,Local NVR,15,BRTS Intersection Ambawadi
+POL-AHM-0103,Kalupur Railway Station West Gate,Home Department (Gujarat Police),Ahmedabad,Ahmedabad,23.0270,72.6015,Dome,Government,Active,Local NVR,30,Railway Station Entry Gate 1
+POL-SRT-0201,Athwa Gate Police Choki,Home Department (Gujarat Police),Surat,Surat,21.1820,72.8090,PTZ,Government,Active,Local NVR,15,Athwa Lines Main Chowk
+POL-SRT-0202,Varachha Diamond Market Entrance,Home Department (Gujarat Police),Surat,Surat,21.2150,72.8630,ANPR,Government,Active,Local NVR,30,Varachha Main Road
+POL-VAD-0301,Khanderao Market Heritage Gate,Home Department (Gujarat Police),Vadodara,Vadodara,22.2980,73.2050,Dome,Government,Active,Local NVR,15,Rajmahal Road Vadodara
+POL-RJK-0401,Kishanpara Chowk Traffic Post,Home Department (Gujarat Police),Rajkot,Rajkot,22.2950,70.7980,IP,Government,Active,Local NVR,15,Near Race Course Ring Road
+POL-VAL-0501,Umbergaon Coastal Police Post,Home Department (Gujarat Police),Valsad,Valsad,20.1980,72.7530,Thermal,Government,Active,Local NVR,30,Coastal Fishing Harbour Post
+POL-DAH-0601,Garbada Border Police Outpost,Home Department (Gujarat Police),Dahod,Dahod,22.7150,74.3120,Bullet,Government,Active,Local NVR,15,State Highway 62 Checkpoint
+POL-DWK-0701,Dwarka Bet Coastal Jetty Patrol,Home Department (Gujarat Police),Devbhumi Dwarka,Dwarka,22.4410,69.1020,PTZ,Government,Active,Local NVR,30,Bet Dwarka Passenger Ferry Point

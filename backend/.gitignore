@@ -1,0 +1,35 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Secrets
+.env
+.env.local
+.env.*.local
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+cctv_registry.db
+
+# Live Video Streams Output Directory
+streams/
+*.m3u8
+*.ts
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
